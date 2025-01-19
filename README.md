@@ -76,7 +76,7 @@ Contributions are welcome! If you have suggestions or want to improve the projec
 - Create a new branch.
 - Commit your changes and submit a pull request.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 ## Contact
  - email: kuasha10102@gmail.com
  - linkedin: www.linkedin.com/in/sayantichy
