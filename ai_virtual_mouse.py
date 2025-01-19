@@ -1,5 +1,3 @@
-# pylint: disable=E1101
-
 """
 Enhanced AI Virtual Mouse with advanced gesture detection and functionalities.
 
