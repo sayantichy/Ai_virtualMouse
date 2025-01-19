@@ -80,4 +80,4 @@ This project is licensed under the MIT License.
 ## Contact
  - email: kuasha10102@gmail.com
  - linkedin: www.linkedin.com/in/sayantichy
- - twitter/ X: https://x.com/Sayantichy:
+ - twitter/ X: https://x.com/Sayantichy
