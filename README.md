@@ -69,8 +69,9 @@ Press 'Q' to quit the program.
 - Enhance gesture differentiation to increase accuracy.
 - Optimize performance for lower-end systems.
 - Integrate additional gestures for more functionality.
-##Demo
-I need to highlight these == https://youtu.be/iUIgOLHIg68 ==
+
+ ##Demo
+https://youtu.be/iUIgOLHIg68
 ## Contribution
 Contributions are welcome! If you have suggestions or want to improve the project:
 
