@@ -1,10 +1,10 @@
-# AI Virtual Mouse
+# 🚀AI Virtual Mouse🖱
 
-## Overview
+## 📺Overview
 
 The **AI Virtual Mouse** is an innovative project that replaces traditional input devices with intuitive hand gestures. Using a webcam, the system tracks hand movements and translates gestures into actions like mouse clicks, cursor movement, and keyboard shortcuts. This touchless technology is designed to enhance accessibility and explore new forms of human-computer interaction.
 
-## Features
+## ➕Features
 
 - **Cursor Movement:** Control the mouse pointer using hand gestures.
 - **Left-Click and Right-Click:** Perform mouse clicks with pinch gestures.
@@ -13,7 +13,7 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
 - **Copy and Paste:** Execute copy and paste operations with specific gestures.
 - **Real-Time Processing:** Smooth and responsive performance for seamless interaction.
 
-## Technologies Used
+## ✨Technologies Used
 
 - **Programming Language:** Python
 - **Libraries and Frameworks:**
@@ -25,17 +25,17 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
   - Local Machine
   - Webcam for input hardware
 
-## How It Works
+## 🗝How It Works
 
 1. **Hand Detection:** The system uses Mediapipe's Hand API to detect and track hand landmarks.
 2. **Gesture Recognition:** Specific gestures (e.g., pinches or finger positions) are mapped to mouse and keyboard actions.
 3. **Real-Time Interaction:** OpenCV captures live video frames, processes them, and translates gestures into actions on the screen.
 
-## Installation
+## 🔗Installation
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sayantichy/Ai_virtualMouse/
    cd ai-virtual-mouse
 2. Install the required dependencies:
    ```bash
@@ -43,7 +43,7 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
 4. Run the program:
     ```bash
     python ai_virtual_mouse.py
-## Usage
+## 📃Usage
 - Ensure your webcam is connected and working.
 - Run the program and allow it to access the webcam.
 - Use the following gestures:
@@ -55,7 +55,12 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
    - Paste: Pinch your thumb and pinky together.
    - Hover Click: Keep your index finger still for one second to simulate a click.
 Press 'Q' to quit the program.
-## Challenges
+
+
+https://github.com/user-attachments/assets/9c475855-3499-47d1-aefe-14104316f4c2
+
+
+## 🌪Challenges
 1. Gesture Detection Accuracy:
    - Fine-tuning the system for reliable gesture detection in various conditions.
 2. Smooth Cursor Movement:
@@ -64,22 +69,27 @@ Press 'Q' to quit the program.
    - Ensuring low latency for a responsive experience.
 4. False Positives:
    - Minimizing unintentional actions caused by misinterpreted gestures.
-## Future Improvements
+## 🎉Future Improvements
 - Add support for multi-hand gestures.
 - Enhance gesture differentiation to increase accuracy.
 - Optimize performance for lower-end systems.
 - Integrate additional gestures for more functionality.
-## Demo
-https://youtu.be/iUIgOLHIg68
-## Contribution
+## 💻Demo
+🔗https://youtu.be/iUIgOLHIg68
+
+
+https://github.com/user-attachments/assets/15538e73-db31-41f9-a9da-4189868bf51c
+
+
+## 📌Contribution
 Contributions are welcome! If you have suggestions or want to improve the project:
 
 - Fork the repository.
 - Create a new branch.
 - Commit your changes and submit a pull request.
-## License
+## 🥇License
 This project is licensed under the [MIT License](LICENSE).
-## Contact
+## 📞Contact
  - email: kuasha10102@gmail.com
  - linkedin: www.linkedin.com/in/sayantichy
  - twitter/ X: https://x.com/Sayantichy
